@@ -26,7 +26,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Image of Webpage
 
-![Image of Password Generator](./images\03-javascript-homework-demo.png)
+![Image of Password Generator](./images/03-javascript-homework-demo.png)
 
 ## Link to Webpage
 

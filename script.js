@@ -25,7 +25,7 @@ function prompts() {
         askSpecial: askSpecial
       } 
       if((length < 8)||(length > 128))
-      alert("Lenght must be between 8 and 128 characters!");
+      alert("Length must be between 8 and 128 characters!");
       else if((!askNumbers)&&(!askLowerCase)&&(!askUpperCase)&&(!askSpecial))
       alert("Must choose at least one type.");
       else
